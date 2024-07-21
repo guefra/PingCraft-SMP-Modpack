@@ -1,5 +1,7 @@
 ### PingCraft SMP Modpack
 
+![banner](https://github.com/guefra/PingCraft-SMP-Modpack/blob/main/src/images/modpack-banner.png?raw=true)
+
 **What is this?**
 
 This is a modpack for Minecraft Java Edition Fabric 1.20.1 including Create, Farmer's Delight, Better End, Better Nether and other quality of life mods.
