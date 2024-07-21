@@ -1,9 +1,9 @@
-### PingCraft SMP Modpack
+### PingCraft SMP Modpack Singleplayer
 
-**What is this?**
+**Features**
 
-This is a modpack for Minecraft Java Edition Fabric 1.20.1 including Create, Farmer's Delight, Better End, Better Nether and other quality of life mods.
+This version of the Modpack includes all Mods, Resource Packs and Data Packs of the Modpack. You just have to install this pack in your launcher (easy with Modrinth or ATLauncher) by downloading the .mrpack file from here or frome the Modrinth page: _coming soon_.
+With this version you can create a single player world and have all the features like beatiful world generation, much more mobs, a better farming experience and more.
 
-**Usage**
 
-There will be 3 different versions of the modpack, splitted up in branches. The first version is for using the modpack in Singleplayer (all mods included), the second version is for putting it on your server (only mods the server needs included) and the last version is for using on your client when joining such a server (only mods the client needs included).
+
