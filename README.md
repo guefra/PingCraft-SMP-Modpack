@@ -27,8 +27,6 @@ With this version you can create a single player world and have all the features
     <li><p><a href="https://modrinth.com/mod/fallingleaves">Falling Leaves</a></p></li>
     <li><p><a href="https://modrinth.com/mod/capes">Capes</a></p></li>
     <li><p><a href="https://modrinth.com/resourcepack/fast-better-grass">Fast Better Grass</a></p></li>
-    <li><p><a href="https://modrinth.com/resourcepack/xalis-enhanced-vanilla">xali’s Enhanced Vanilla </a>(Resource Pack, changed manually to 1.20.1)</p></li>
-    <li><p><a href="https://modrinth.com/resourcepack/xalis-potion">xali’s Potion </a>(Resource Pack)</p></li>
   </ul>  
 </details>
 
@@ -73,7 +71,10 @@ With this version you can create a single player world and have all the features
     <li><p><a href="https://modrinth.com/mod/yungs-better-strongholds">YUNGʼs Better Strongholds</a></p></li>
     <li><p><a href="https://modrinth.com/mod/yungs-extras">YUNGʼs Extras</a></p></li>
     <li><p><a href="https://modrinth.com/mod/yungs-bridges">YUNGʼs Bridges</a></p></li>
-    <li><p><a href="https://modrinth.com/mod/ct-overhaul-village">ChoiceTheoremʼs Overhauled Villages</a></p></li>
+    <li><p><a href="https://modrinth.com/mod/ct-overhaul-village">ChoiceTheoremʼs Overhauled Villages</a></p></li>    
+    <li><p><a href="https://modrinth.com/datapack/dungeons-and-taverns">Dungeons and Taverns</a> (Mod version)</p></li>
+    <li><p><a href="https://modrinth.com/datapack/tectonic">Tectonic</a> (Mod version)</p></li>
+    <li><p><a href="https://modrinth.com/datapack/explorify">Explorify</a> (Datapack)</p></li>
   </ul>  
 </details>
 
@@ -87,7 +88,7 @@ With this version you can create a single player world and have all the features
     <li><p><a href="https://modrinth.com/mod/entitytexturefeatures">Entity Texture Features</a></p></li>
     <li><p><a href="https://modrinth.com/mod/creeper-overhaul">Creeper Overhaul</a></p></li>
     <li><p><a href="https://modrinth.com/mod/naturalist">Naturalist</a></p></li>
-    <li><p><a href="https://www.curseforge.com/minecraft/mc-mods/ecologics/files/all?page=1&pageSize=20">Ecologics </a>(Curse Forge)</p></li>
+    <li><p><a href="https://www.curseforge.com/minecraft/mc-mods/ecologics/">Ecologics </a>(Curse Forge)</p></li>
   </ul>  
 </details>
 
@@ -109,6 +110,10 @@ With this version you can create a single player world and have all the features
     <li><p><a href="https://modrinth.com/mod/modmenu">Mod Menu</a></p></li>
     <li><p><a href="https://modrinth.com/mod/pneumono_gravestones">Gravestones</a></p></li>
     <li><p><a href="https://modrinth.com/datapack/edf-remastered">Ender Dragon Fight Remastered </a>(Data Pack)</p></li>
+    <li><p><a href="https://modrinth.com/mod/immersive-aircraft">Immersive Aircratfs</a></p></li>
+    <li><p><a href="https://modrinth.com/mod/immersive-armors">Immersive Armors</a></p></li>
+    <li><p><a href="https://www.curseforge.com/minecraft/mc-mods/fabric-simple-animated-guns">Simple Animated Guns</a> (Curse Forge)</p></li>
+    <li><p><a href="https://modrinth.com/mod/just-zoom">Just Zoom</a></p></li>
   </ul>  
 </details>
 
@@ -149,5 +154,13 @@ With this version you can create a single player world and have all the features
     <li><p><a href="https://modrinth.com/datapack/remove-terralith-intro-message">Remove Terralith Intro Message </a>(Data Pack)</p></li>
     <li><p><a href="https://modrinth.com/mod/bookshelf-lib">Bookshelf</a></p></li>
     <li><p><a href="https://modrinth.com/mod/searchables">Searchables</a></p></li>
+    <li><p><a href="https://modrinth.com/mod/mcpitanlibarch">MCPitanLib</a></p></li>
+    <li><p><a href="https://modrinth.com/mod/cardinal-components-api">Cardinal Components API</a></p></li>
+    <li><p><a href="https://modrinth.com/mod/bclib">BCLib</a></p></li>
+    <li><p><a href="https://modrinth.com/mod/konkrete">Konkrete</a></p></li>
+    <li><p><a href="https://modrinth.com/mod/patchouli">Patchouli</a></p></li>
+    <li><p><a href="https://modrinth.com/mod/resourceful-config">Resourceful Config</a></p></li>
+    <li><p><a href="https://modrinth.com/mod/resourceful-lib">Resourceful Lib</a></p></li>
+    <li><p><a href="https://modrinth.com/mod/azurelib">AzureLib</a></p></li>
   </ul>  
 </details>
